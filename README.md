@@ -6,5 +6,6 @@
 
 ![A screenshot of the NASA Location & Weather Chart](assets/Photos/frontPage.png)
 
-
+### Issues: 
+### - udnerstanding how to fix the CORS issue took a lot of time.
 

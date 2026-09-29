@@ -7,5 +7,7 @@
 ![A screenshot of the NASA Location & Weather Chart](assets/Photos/frontPage.png)
 
 ### Issues: 
-### - udnerstanding how to fix the CORS issue took a lot of time.
+### - Understanding how to fix the CORS issue took a lot of time.
+### - There was some minor confusion about how to best use a table to hold all the information. 
+### - It was difficult to style elements that were created in JavaScript file.
 

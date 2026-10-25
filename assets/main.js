@@ -35,7 +35,7 @@ function getData(){
                 
                 fetch(`http://api.weatherapi.com/v1/current.json?key=500dc77b4c3c4c9faef75907262309&q=${city}&aqi=no`)
                     .then (res => res.json())
-                    .then (data =>{
+                    .then ((data) =>{
                         console.log(data)
                         console.log(data.current.temp_f)
                         const weather = data.current.temp_f + " °F"

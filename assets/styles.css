@@ -49,6 +49,10 @@ button{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     background-color: rgb(189, 207, 108);
+    font-size: 1.3rem;
+}
+select{
+    font-size: 1.3rem;
 }
 table{
     background-color: rgba(129, 104, 174, 0.93);
